@@ -1,59 +1,59 @@
 - name: kind:bug
-  color: d93f0b
+  color: "d93f0b"
   description: Something isn't working
 
 - name: kind:enhancement
-  color: 09ed2e
+  color: "09ed2e"
   description: New feature or request
 
 - name: kind:meta
-  color: ff0088
+  color: "ff0088"
   description: Repository or project-level concern
 
 - name: kind:refactor
-  color: fbca04
+  color: "fbca04"
   description: Refactoring code (no functional changes, no API changes)
 
 - name: kind:performance
-  color: 9002f5
+  color: "9002f5"
   description: Improving performance in either c++ or s++ generated code
 
 - name: kind:documentation
-  color: 0075ca
+  color: "0075ca"
   description: Improvements or additions to documentation
 
 - name: kind:test
-  color: f59c02
+  color: "f59c02"
   description: Improvements or additions to tests
 
 - name: kind:ci
-  color: b0f502
+  color: "b0f502"
   description: Improvements or additions to CI/CD
 
 - name: todo
-  color: 1d76db
+  color: "1d76db"
   description: Incomplete ticket (initial plan, needs more work, etc.)
 
 - name: crash
-  color: f50202
+  color: "f50202"
   description: Compiler crash, segfault, GCC/Clang ICE
 
 - name: soundness
-  color: 02f590
+  color: "02f590"
   description: Accepts code it shouldn't, or incorrect code generated
 
 - name: breaking
-  color: ff00ff
+  color: "ff00ff"
   description: Breaking change (S++ code, or the STD)
 
 - name: cross-repo
-  color: ffff00
+  color: "ffff00"
   description: Cross-repo issue (requires changes in another repo)
 
 - name: platform
-  color: 00ffff
+  color: "00ffff"
   description: Platform-specific issue (Windows, Linux, etc.)
 
 - name: security
-  color: 000000
+  color: "000000"
   description: Security issue (e.g. general hardening, buffer overflow, etc.)
