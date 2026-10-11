@@ -47,7 +47,6 @@ jobs:
             if github-label-sync \
                  --access-token "$GH_TOKEN" \
                  --labels .github/labels.yml \
-                 --allow-added-labels \
                  "$repo"; then
               echo "OK: $repo"
             else

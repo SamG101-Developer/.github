@@ -2,7 +2,7 @@
 name: Bug
 about: Create a bug ticket
 title: ''
-labels: kind:bug
+labels: bug
 assignees: ''
 
 ---

@@ -1,32 +1,32 @@
-- name: kind:bug
+- name: bug
   color: "d93f0b"
   description: Something isn't working
 
-- name: kind:enhancement
+- name: enhancement
   color: "09ed2e"
   description: New feature or request
 
-- name: kind:meta
+- name: meta
   color: "ff0088"
   description: Repository or project-level concern
 
-- name: kind:refactor
+- name: refactor
   color: "fbca04"
   description: Refactoring code (no functional changes, no API changes)
 
-- name: kind:performance
+- name: performance
   color: "9002f5"
   description: Improving performance in either c++ or s++ generated code
 
-- name: kind:documentation
+- name: documentation
   color: "0075ca"
   description: Improvements or additions to documentation
 
-- name: kind:test
+- name: test
   color: "f59c02"
   description: Improvements or additions to tests
 
-- name: kind:ci
+- name: ci
   color: "b0f502"
   description: Improvements or additions to CI/CD
 
@@ -53,6 +53,10 @@
 - name: platform
   color: "00ffff"
   description: Platform-specific issue (Windows, Linux, etc.)
+
+- name: third-party
+  color: "0000ff"
+  description: Integrate or remove a third-party library
 
 - name: security
   color: "010101"

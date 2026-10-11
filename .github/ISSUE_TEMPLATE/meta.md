@@ -2,7 +2,7 @@
 name: Meta
 about: Create a meta ticket
 title: ''
-labels: kind:meta
+labels: meta
 assignees: ''
 
 ---

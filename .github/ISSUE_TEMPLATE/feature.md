@@ -2,7 +2,7 @@
 name: Feature
 about: Create a feature ticket
 title: ''
-labels: kind:enhancement
+labels: enhancement
 assignees: ''
 
 ---
