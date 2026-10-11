@@ -2,12 +2,12 @@
 name: Meta
 about: Create a meta ticket
 title: ''
-labels: meta
+labels: kind:meta
 assignees: ''
 
 ---
 
-**Ticket Title**
+# Ticket Title
 
 - Outline the general issue with the project or repository.
 - Include any relevant context or background information.

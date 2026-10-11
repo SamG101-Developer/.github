@@ -2,12 +2,12 @@
 name: Bug
 about: Create a bug ticket
 title: ''
-labels: bug
+labels: kind:bug
 assignees: ''
 
 ---
 
-**Bug Title**
+# Bug Title
 
 - Describe the bug you encountered.
 - Include reproduction steps

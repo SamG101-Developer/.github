@@ -2,12 +2,12 @@
 name: Feature
 about: Create a feature ticket
 title: ''
-labels: enhancement
+labels: kind:enhancement
 assignees: ''
 
 ---
 
-**Feature Title**
+# Feature Title**
 
 - Outline the feature you would like to see implemented.
 - Bullet point key aspects of the feature.
