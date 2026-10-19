@@ -61,3 +61,7 @@
 - name: security
   color: "010101"
   description: Security issue (e.g. general hardening, buffer overflow, etc.)
+
+- name: dependencies
+  color: "3b8227"
+  description: Dependency update
