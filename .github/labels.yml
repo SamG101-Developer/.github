@@ -65,3 +65,7 @@
 - name: dependencies
   color: "3b8227"
   description: Dependency update
+
+- name: ergonomics
+  color: "ffffff"
+  description: Ergonomics issue (e.g. API usability, error messages, etc.)
